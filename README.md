@@ -33,7 +33,6 @@ Here is a working Live Demo:*will be updated soon.*
 *will be updated soon.*
 ## 💻 Tech Stack
 Instructions to build and run the project can be found in the sub-project directories 
-UI/UX *link will updated soon.*
 Frontend *link will updated soon.*
 Backend *link will updated soon.*
 
